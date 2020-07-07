@@ -1,2 +1,2 @@
 # Simple Snake game using JS
-https://pedroconrado.github.io/snakegame/
+https://pedroconrado.github.io/SnakeGame/
